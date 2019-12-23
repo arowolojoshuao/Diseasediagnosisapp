@@ -1,0 +1,718 @@
+[
+  {
+    "id": "1",
+    "disease_name": "Chronic Pancreatitis",
+    "disease_description": "Chronic pancreatitis is long-term (chronic) inflammation of the pancreas that leads to permanent damage. The most common cause for such a condition is long-term excessive alcohol consumption",
+    "symptoms": [
+      {
+        "id": "1",
+        "disease_id": "1",
+        "symptoms": "upper abdominal pain"
+      },
+      {
+        "id": "2",
+        "disease_id": "1",
+        "symptoms": "nausea and vomiting"
+      },
+      {
+        "id": "3",
+        "disease_id": "1",
+        "symptoms": "loss of appetite"
+      },
+      {
+        "id": "4",
+        "disease_id": "1",
+        "symptoms": "weight loss"
+      },
+      {
+        "id": "5",
+        "disease_id": "1",
+        "symptoms": "vitamin deficiencies"
+      },
+      {
+        "id": "6",
+        "disease_id": "1",
+        "symptoms": "diarrhea"
+      },
+      {
+        "id": "7",
+        "disease_id": "1",
+        "symptoms": "Excessive thirst and fatigue "
+      }
+    ],
+    "causes": [
+      {
+        "id": "1",
+        "disease_id": "1",
+        "causes": "Long-term alcohol consumption"
+      },
+      {
+        "id": "2",
+        "disease_id": "1",
+        "causes": "Genetics"
+      },
+      {
+        "id": "3",
+        "disease_id": "1",
+        "causes": "High blood level of calcium called hypercalcemia"
+      },
+      {
+        "id": "4",
+        "disease_id": "1",
+        "causes": "High level of triglyceride fats in your blood called hypertriglyceridemia"
+      },
+      {
+        "id": "5",
+        "disease_id": "1",
+        "causes": "Blockage of the pancreatic duct by either gallstones or pancreatic stones"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "1",
+        "disease_id": "1",
+        "disease_treatment": "Referral is recommended for expertise evaluation and management in specialized centers. Because chronic pancreatitis cannot be cured, direct the treatment towards:Relieving pain with pain-killers- In rare cases, surgery\/ ERCP to open blocked ducts or"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "disease_name": "Chronic viral Hepatitis ",
+    "disease_description": "There is an ongoing inflammatory reaction in the liver for at least 6 months. The most common causative hepatropic viral agents are HBV, HCV, and HDV. Nonviral cause may include, drugs (methyldopa, Isoniazid), autoimmune hepatitis, Wilson\u2019s disease, hemochromatosis, \u03b1- antitrypsin deficiency. Notably disease chronicity can progress into liver cirrhosis and hepatocellular cancer in span of years if no early treatment is initiated.",
+    "symptoms": [
+      {
+        "id": "8",
+        "disease_id": "2",
+        "symptoms": "fatigue"
+      },
+      {
+        "id": "9",
+        "disease_id": "2",
+        "symptoms": "malaise"
+      },
+      {
+        "id": "10",
+        "disease_id": "2",
+        "symptoms": "low grade fever"
+      },
+      {
+        "id": "11",
+        "disease_id": "2",
+        "symptoms": "coagulopathy"
+      },
+      {
+        "id": "12",
+        "disease_id": "2",
+        "symptoms": "glomerulonephritis"
+      }
+    ],
+    "causes": [
+      {
+        "id": "6",
+        "disease_id": "2",
+        "causes": "Internal bleeding"
+      },
+      {
+        "id": "7",
+        "disease_id": "2",
+        "causes": "Wilson disease"
+      },
+      {
+        "id": "8",
+        "disease_id": "2",
+        "causes": "drugs "
+      },
+      {
+        "id": "9",
+        "disease_id": "2",
+        "causes": "autoimmune hepatitis"
+      },
+      {
+        "id": "10",
+        "disease_id": "2",
+        "causes": "hemochromatosis"
+      },
+      {
+        "id": "11",
+        "disease_id": "2",
+        "causes": "hepatocellular cancer "
+      }
+    ],
+    "treatment": [
+      {
+        "id": "2",
+        "disease_id": "2",
+        "disease_treatment": "B: Lamuvidine 150mg (O) once daily.  OR  B: Tenofovir 300mg (O) once daily. Treatment is long term (48- 96 weeks) Combination therapy is indicated in HIV co infected patients.    HCV is treated by Inj. Pegylated interferon (180\u00b5g S.C) in combination with"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "disease_name": "Liver Cirrhosis ",
+    "disease_description": "This is a common end point of many causes of liver diseases where scar tissue gradually replaces healthier liver cells",
+    "symptoms": [
+      {
+        "id": "13",
+        "disease_id": "3",
+        "symptoms": "jaundice"
+      },
+      {
+        "id": "14",
+        "disease_id": "3",
+        "symptoms": "insomnia"
+      },
+      {
+        "id": "15",
+        "disease_id": "3",
+        "symptoms": "loss of appetite"
+      },
+      {
+        "id": "16",
+        "disease_id": "3",
+        "symptoms": "pain or tenderness in the area where the liver is located"
+      },
+      {
+        "id": "17",
+        "disease_id": "3",
+        "symptoms": "weakness"
+      },
+      {
+        "id": "18",
+        "disease_id": "3",
+        "symptoms": "memory problems"
+      },
+      {
+        "id": "19",
+        "disease_id": "3",
+        "symptoms": "dizziness"
+      }
+    ],
+    "causes": [
+      {
+        "id": "12",
+        "disease_id": "3",
+        "causes": "chronic hepatitis B & C infection"
+      },
+      {
+        "id": "13",
+        "disease_id": "3",
+        "causes": "sustained and excessive alcohol consumption"
+      },
+      {
+        "id": "14",
+        "disease_id": "3",
+        "causes": "fatty liver diseases."
+      },
+      {
+        "id": "15",
+        "disease_id": "3",
+        "causes": "Toxic metals"
+      },
+      {
+        "id": "16",
+        "disease_id": "3",
+        "causes": "Genetic diseases"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "3",
+        "disease_id": "3",
+        "disease_treatment": "It is advisable to refer patients with this condition to specialized centers for proper evaluation and treatment. A planned supportive management can then be continued at the referring centers"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "disease_name": "Ascites of chronic liver disease ",
+    "disease_description": "There is accumulation of fluid into peritoneal cavity; contributing factors includes portal hypertension, hypoalbuminemia, hepatic lymph, hepatorenal syndrome",
+    "symptoms": [
+      {
+        "id": "20",
+        "disease_id": "4",
+        "symptoms": "Abdominal distension and discomfort in increasing amounts"
+      },
+      {
+        "id": "21",
+        "disease_id": "4",
+        "symptoms": "anorexia"
+      },
+      {
+        "id": "22",
+        "disease_id": "4",
+        "symptoms": "nausea"
+      },
+      {
+        "id": "23",
+        "disease_id": "4",
+        "symptoms": "early satiety"
+      },
+      {
+        "id": "24",
+        "disease_id": "4",
+        "symptoms": "heartburn"
+      },
+      {
+        "id": "25",
+        "disease_id": "4",
+        "symptoms": "respiratory distress"
+      }
+    ],
+    "causes": [],
+    "treatment": [
+      {
+        "id": "4",
+        "disease_id": "4",
+        "disease_treatment": "Monitor weight reduction (targeted at 0.5 and 1kg\/day if peripheral edema is present), urinary Na and K, serum electrolytes and creatinine. If ascites still present despite the above measures, manage the condition as refractory ascites where large volume "
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "disease_name": "Chronic obstructive pulmonary disease (COPD)",
+    "disease_description": "Chronic obstructive pulmonary disease (COPD) is a lung disease characterized by chronic obstruction of lung airflow that interferes with normal breathing and is not fully reversible (WHO) ",
+    "symptoms": [
+      {
+        "id": "26",
+        "disease_id": "5",
+        "symptoms": "Chronic cough and sputum production "
+      },
+      {
+        "id": "27",
+        "disease_id": "5",
+        "symptoms": "development of airflow limitation"
+      },
+      {
+        "id": "28",
+        "disease_id": "5",
+        "symptoms": "abnormal shortness of breath"
+      },
+      {
+        "id": "29",
+        "disease_id": "5",
+        "symptoms": "increased forced expiratory time"
+      },
+      {
+        "id": "30",
+        "disease_id": "5",
+        "symptoms": "wheezing"
+      },
+      {
+        "id": "31",
+        "disease_id": "5",
+        "symptoms": "abnormal lung sounds"
+      },
+      {
+        "id": "32",
+        "disease_id": "5",
+        "symptoms": "hyperinflation"
+      }
+    ],
+    "causes": [
+      {
+        "id": "17",
+        "disease_id": "5",
+        "causes": "Cigarette smoking"
+      },
+      {
+        "id": "18",
+        "disease_id": "5",
+        "causes": "Prolonged exposure to air pollution"
+      },
+      {
+        "id": "19",
+        "disease_id": "5",
+        "causes": "Infectious diseases"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "5",
+        "disease_id": "5",
+        "disease_treatment": "Refer to a specialist"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "disease_name": "Chronic bronchitis ",
+    "disease_description": "A chronic, inflammatory condition of the bronchi characterized by coughing and expectoration (spitting-up) of sputum (mucous coughed-up from the lungs) occurring on most days and lasting 3 months or longer for at least two consecutive years",
+    "symptoms": [
+      {
+        "id": "33",
+        "disease_id": "6",
+        "symptoms": "breathlessness or fatigue"
+      },
+      {
+        "id": "34",
+        "disease_id": "6",
+        "symptoms": "at rest or during exertion  "
+      }
+    ],
+    "causes": [
+      {
+        "id": "20",
+        "disease_id": "6",
+        "causes": "excessive alcohol intake"
+      },
+      {
+        "id": "21",
+        "disease_id": "6",
+        "causes": "excessive fluid intake in severe HF"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "6",
+        "disease_id": "6",
+        "disease_treatment": "Treatment of Systolic Heart Failure (LVEF< 45 - 50%)   Aims of Treatment . Prevention of  A) Disease leading to cardiac dysfunction and heart failure e.g hypertension, coronary artery disease, valve disease etc  B) Progression to HF once cardiac dysfuncti"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "disease_name": "Rheumatoid Arthritis ",
+    "disease_description": "It is a chronic multisystem disease of unknown aetiology ",
+    "symptoms": [
+      {
+        "id": "35",
+        "disease_id": "7",
+        "symptoms": "Joint pain"
+      },
+      {
+        "id": "36",
+        "disease_id": "7",
+        "symptoms": "stiffness"
+      },
+      {
+        "id": "37",
+        "disease_id": "7",
+        "symptoms": "symmetrical swelling of a number of peripheral joints "
+      }
+    ],
+    "causes": [
+      {
+        "id": "22",
+        "disease_id": "7",
+        "causes": "Air pollution"
+      },
+      {
+        "id": "23",
+        "disease_id": "7",
+        "causes": "Insecticides"
+      },
+      {
+        "id": "24",
+        "disease_id": "7",
+        "causes": "Occupational exposure to mineral oil and silica"
+      },
+      {
+        "id": "25",
+        "disease_id": "7",
+        "causes": "Risk factors"
+      },
+      {
+        "id": "26",
+        "disease_id": "7",
+        "causes": "Exposure to cigarette smoke,"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "7",
+        "disease_id": "7",
+        "disease_treatment": "A: Acetylsalicylic acid 1.2 g every 6 hours with food.       OR    A: Ibuprofen give 400 \u2013 800 mg every 8 hours.  Continue for a long as it is necessary"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "disease_name": "Chronic Kidney Diseases (CKD) ",
+    "disease_description": "It is structural or functional kidney damage present for > 3 months, with or without a decreased glomerular filtration rate (GFR).  ",
+    "symptoms": [
+      {
+        "id": "38",
+        "disease_id": "8",
+        "symptoms": "Abnormalities in urine "
+      },
+      {
+        "id": "39",
+        "disease_id": "8",
+        "symptoms": "Abnormalities in blood "
+      },
+      {
+        "id": "40",
+        "disease_id": "8",
+        "symptoms": "Abnormalities in imaging tests "
+      },
+      {
+        "id": "41",
+        "disease_id": "8",
+        "symptoms": "Abnormalities on pathological specimens"
+      }
+    ],
+    "causes": [
+      {
+        "id": "27",
+        "disease_id": "8",
+        "causes": "Hypertension "
+      },
+      {
+        "id": "28",
+        "disease_id": "8",
+        "causes": "Diabetes mellitus "
+      },
+      {
+        "id": "29",
+        "disease_id": "8",
+        "causes": "Glomerular diseases  "
+      }
+    ],
+    "treatment": [
+      {
+        "id": "8",
+        "disease_id": "8",
+        "disease_treatment": "Fluid overload Treat fluid overload if present and refer. Adults C: Furosemide 40\u201380mg slow I.V or oral, 12 hourly. If poor response, repeat after 1 hour. Do not give I.V fluids \u2013 use heparin lock or similar I.V access"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "disease_name": "Epilepsies",
+    "disease_description": "Are disorders of the central nervous system (CNS) which are characterized by chronic spontaneous recurring seizures",
+    "symptoms": [
+      {
+        "id": "42",
+        "disease_id": "9",
+        "symptoms": "temporary confusion"
+      },
+      {
+        "id": "43",
+        "disease_id": "9",
+        "symptoms": "a staring spell"
+      },
+      {
+        "id": "44",
+        "disease_id": "9",
+        "symptoms": "loss of awareness"
+      }
+    ],
+    "causes": [
+      {
+        "id": "30",
+        "disease_id": "9",
+        "causes": "alcohol"
+      },
+      {
+        "id": "31",
+        "disease_id": "9",
+        "causes": "meningitis"
+      },
+      {
+        "id": "32",
+        "disease_id": "9",
+        "causes": "eclampsia"
+      },
+      {
+        "id": "33",
+        "disease_id": "9",
+        "causes": "hypoglycaemia "
+      }
+    ],
+    "treatment": [
+      {
+        "id": "9",
+        "disease_id": "9",
+        "disease_treatment": "should be started with phenobarbitone alone.  Full effect can be experienced usually after two weeks. Phenobarbitone can be increased to maximum if seizures persist (refer to a table below) \u2022 When no improvement is obtained change to phenytoin, tapering"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "disease_name": "Iron deficiency anaemia ",
+    "disease_description": "Iron deficiency is mainly due to blood loss secondary to haemorrhage, malabsoption and hookworm infections",
+    "symptoms": [
+      {
+        "id": "45",
+        "disease_id": "10",
+        "symptoms": "fatigue"
+      },
+      {
+        "id": "46",
+        "disease_id": "10",
+        "symptoms": "palpitation"
+      },
+      {
+        "id": "47",
+        "disease_id": "10",
+        "symptoms": "dizziness"
+      },
+      {
+        "id": "48",
+        "disease_id": "10",
+        "symptoms": "koinlokia "
+      }
+    ],
+    "causes": [],
+    "treatment": [
+      {
+        "id": "10",
+        "disease_id": "10",
+        "disease_treatment": "Treat the cause of blood loss, for example upper GI bleeding due to peptic ulcer and  lower GI bleeding secondary to hookworm infections and  malignancy.  Oral Iron supplementation.Blood transfusion is only indicated if it is life threatining.Iron deficie"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "disease_name": "Megaloblastic anemia",
+    "disease_description": "",
+    "symptoms": [
+      {
+        "id": "49",
+        "disease_id": "11",
+        "symptoms": "Fatigue"
+      },
+      {
+        "id": "50",
+        "disease_id": "11",
+        "symptoms": "numbness of lower limbs"
+      },
+      {
+        "id": "51",
+        "disease_id": "11",
+        "symptoms": "palpitation"
+      },
+      {
+        "id": "52",
+        "disease_id": "11",
+        "symptoms": "Progressive neuropathy affecting peripheral sensory nerves"
+      },
+      {
+        "id": "53",
+        "disease_id": "11",
+        "symptoms": "posterior and lateral column and mildly jaundiced "
+      }
+    ],
+    "causes": [
+      {
+        "id": "34",
+        "disease_id": "11",
+        "causes": "inadequate intake"
+      },
+      {
+        "id": "35",
+        "disease_id": "11",
+        "causes": "malabsorpsion due to Gastric causes"
+      },
+      {
+        "id": "36",
+        "disease_id": "11",
+        "causes": "congenital lack "
+      },
+      {
+        "id": "37",
+        "disease_id": "11",
+        "causes": "Total or partial gastrectomy"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "11",
+        "disease_id": "11",
+        "disease_treatment": "Patient having multibacillary leprosy are given a combination of Rifampicin, Dapsone and clofezimine while those having paucibacillary leprsosy are given a combination of Rifampicin and Dapsone. Both regimens are given in the form of blister pack on a fou"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "disease_name": "Cancer",
+    "disease_description": "Cancer is a class of diseases characterized by out-of-control cell growth. There are over 100 different types of cancer, and each is classified by the type of cell that is initially affected. Cancer harms the body when altered cells divide uncontrollably to form lumps or masses of tissue called tumors (except in the case of leukemia where cancer prohibits normal blood function by abnormal cell division in the blood stream). Tumors can grow and interfere with the digestive, nervous, and circulatory systems, and they can release hormones that alter body function. Tumors that stay in one spot and demonstrate limited growth are generally considered to be benign.",
+    "symptoms": [
+      {
+        "id": "54",
+        "disease_id": "12",
+        "symptoms": "a lump on the breast or testicle "
+      },
+      {
+        "id": "55",
+        "disease_id": "12",
+        "symptoms": "white spots on the tongue"
+      },
+      {
+        "id": "56",
+        "disease_id": "12",
+        "symptoms": "brain tumors"
+      },
+      {
+        "id": "57",
+        "disease_id": "12",
+        "symptoms": "fever"
+      },
+      {
+        "id": "58",
+        "disease_id": "12",
+        "symptoms": "excessive sweating"
+      }
+    ],
+    "causes": [
+      {
+        "id": "38",
+        "disease_id": "12",
+        "causes": "smoking "
+      },
+      {
+        "id": "39",
+        "disease_id": "12",
+        "causes": "mutations to the DNA within cells"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "12",
+        "disease_id": "12",
+        "disease_treatment": "Cancer treatment depends on the type of cancer, the stage of the cancer (how much it has spread), age, health status, and additional personal characteristics. There is no single treatment for cancer, and patients often receive a combination of therapies a"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "disease_name": "Hypertension",
+    "disease_description": "High blood pressure that is not caused by another condition or disease is called primary or essential hypertension. If it occurs as a result of another condition, it is called secondary hypertension. Primary hypertension can result from multiple factors, including blood plasma volume and activity of the hormones that regulate of blood volume and pressure. It is also influenced by environmental factors, such as stress and lack of exercise. Secondary hypertension has specific causes and is a complication of another problem",
+    "symptoms": [
+      {
+        "id": "59",
+        "disease_id": "13",
+        "symptoms": "may not notice any symptoms"
+      }
+    ],
+    "causes": [
+      {
+        "id": "40",
+        "disease_id": "13",
+        "causes": "kidney disease"
+      },
+      {
+        "id": "41",
+        "disease_id": "13",
+        "causes": "diabetes, due to both kidney problems and nerve damage"
+      },
+      {
+        "id": "42",
+        "disease_id": "13",
+        "causes": "pheochromocytoma, a rare cancer of an adrenal gland"
+      },
+      {
+        "id": "43",
+        "disease_id": "13",
+        "causes": "congenital adrenal hyperplasia, a disorder of the cortisol-secreting adrenal glands"
+      }
+    ],
+    "treatment": [
+      {
+        "id": "13",
+        "disease_id": "13",
+        "disease_treatment": "People who have or who are at risk of high blood pressure are advised to eat as little saturated and total fat as possible,It is important to avoid trans-fats, hydrogenated vegetable oils, and animal fats, and to eat portions of moderate size."
+      }
+    ]
+  }
+]

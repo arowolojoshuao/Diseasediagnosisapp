@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg3"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imagelogo2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logotext" />
+
+
+    <com.ecosa.diseasediagnosisapp.transitions.customfonts.MyTextView
+        android:id="@+id/welcome_text"
+        style="@style/TextViewAppearance.Headline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="250dp"
+        android:alpha="0.0"
+        android:text="Android-Based Chronic Disease Management System"
+        android:textColor="@color/red"
+        android:textSize="14dp" />
+
+</RelativeLayout>

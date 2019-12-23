@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android-Based Chronic Disease Management System</string>
+    <string name="causes"> - Back\n- Teria</string>
+
+    <string-array name="expertise">
+        <item>Neurologist</item>
+        <item>Chemoterapist</item>
+        <item>Psychology</item>
+    </string-array>
+
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="lorem">Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum </string>
+</resources>
